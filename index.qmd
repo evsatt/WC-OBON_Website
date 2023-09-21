@@ -1,0 +1,99 @@
+---
+title: "The West Coast Ocean Biomolecular Observing Network (WC-OBON)"
+image: e-headshot.png
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 23em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/erin-satterthwaite-309a79164/
+    - text: GitHub
+      href: https://github.com/evsatt
+    - text: Email
+      href: mailto:esatterthwaite@ucsd.edu
+---
+
+This is the West Coast OBON. We are really happy to have this starting!
+
+# Background
+
+Biomolecular technologies offer significant potential to transform marine management, but the development and application of molecular tools in marine ecosystems has been siloed within agencies, making it difficult to integrate long term datasets.
+
+The West Coast OBON is under consideration by the [UN Decade of Ocean Science for Sustainable Development ](https://urldefense.com/v3/__https://ioc.unesco.org/news/ocean-decade-launches-new-call-decade-actions-no-032022__;!!Mih3wA!HnBG9gzE_VQVs-UhXz9iJY5GbokqMglHMsoQCIypEGcinOWl395jSpAXGU4F1Y0FB0FvrPefU6QC6vtm_0j0-CkaAL4m$)as a program within the existing OBON global framework. We will work toward method harmonization and data integration of 'Omics ocean observing platforms on the North American West Coast in support of sustainable marine management.
+
+# Goal
+
+Facilitate the adoption and harmonization of molecular tools by biomonitoring programs to develop an unprecedented overview of marine ecosystem dynamics
+
+# Objectives
+
+1\) align eDNA methods to improve comperability of ocean observing platforms
+
+2\) develop bioinformatic work flows and metadata standards to facilitate eDNA method adoption
+
+3\) establish best practices for large scale biomolecular monitoring
+
+# Key Priorities
+
+**Short term**
+
+-   Complete eDNA sampling methods comparison experiment to identify optimal approaches
+
+-   Sequence mitogenomes of ecologically important taxa to improve DNA reference libraries
+
+-   Disseminate recommended protocols for eDNA work
+
+**Longer term**
+
+-   Assess water quality & ocean acidification/ hypoxia impacts
+
+-   Identify and forecast HABs
+
+-   Identify trophic drivers of fish assemblage dynamics
+
+-   Map spatio-temporal distributions of protected species
+
+# Partners
+
+Nastassia Patin, CalCOFI & SCCWRP
+
+Erin Satterthwaite, CalCOFI & CA Sea Grant, SIO, UCSD
+
+Zachary Gold, NOAA PMEL
+
+Brice Semmens, CalCOFI, SIO, UCSD
+
+Noelle Bowlin, CalCOFI, NOAA SWFSC
+
+Andrew Thompson, CalCOFI, NOAA SWFSC
+
+Rasmus Swalethorp, CalCOFI, SIO, UCSD
+
+Susanna Theroux, SCCWRP
+
+Stephen Weisberg, SCCWRP
+
+Clarissa Anderson, SCCOOS, SIO, UCSD
+
+Mark Ohman, CCE-LTER, SIO, UCSD
+
+Francisco Chavez, MBARI
+
+Kathleen Pitz, MBARI
+
+Katherine Barbeau, CCE-LTER, SIO, UCSD
+
+Moira Decima, CCE-LTER, SIO, UCSD
+
+Jeff Bowman, Scripps Ecological Observatory, SIO, UCSD
+
+Bob Miller, SBC-MBON, UCSB
+
+Andrew Allen, CalCOFI, SIO, UCSD & JCVI
+
+Kelly Goodwin, NOAA AOML
+
+Gabrielle Canonico, NOAA IOOS
+
+# 
