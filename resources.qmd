@@ -1,0 +1,10 @@
+---
+title: "resources"
+editor: visual
+---
+
+# Resources
+
+[A molecular methods guide](https://docs.google.com/spreadsheets/d/1rDubDv8d1tieoLY2NQZedbSR4-8lsIoafH266XKmtTo/edit?usp=sharing)
+
+This guide includes information to help decision making for marker gene amplification and sequencing.
