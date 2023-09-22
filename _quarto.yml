@@ -4,7 +4,7 @@ project:
 
 website:
   title: "West Coast OBON"
-  favicon: octo_favicon.png
+  favicon: eDNA.png
   navbar:
     left:
       - href: index.qmd
