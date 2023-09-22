@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Please join us!\nEmail us at nvpatin[at]ucsd.edu to learn more."
+    "text": "Email us at nvpatin[at]ucsd.edu to learn more."
   },
   {
     "objectID": "index.html",
@@ -18,6 +18,13 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Resources\nA molecular methods guide. This guide includes information to help decision making for marker gene amplification and sequencing."
+    "text": "A molecular methods guide\nThis guide includes information to help decision making for marker gene amplification and sequencing."
+  },
+  {
+    "objectID": "contact.html#please-join-us",
+    "href": "contact.html#please-join-us",
+    "title": "Contact",
+    "section": "",
+    "text": "Email us at nvpatin[at]ucsd.edu to learn more."
   }
 ]
