@@ -7,7 +7,7 @@ about:
   image-width: 22em
   links:
     - text: Contact
-      href: mailto:nastassia.patin@noaa.gov 
+      href: mailto:nvpatin@ucsd.edu
 ---
 
 # Background
