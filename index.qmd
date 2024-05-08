@@ -14,7 +14,7 @@ about:
 
 Biomolecular technologies offer significant potential to transform marine management, but the development and application of molecular tools in marine ecosystems has been siloed within agencies, making it difficult to integrate long term datasets.
 
-The West Coast OBON is a project within the OBON Programme within the [UN Decade of Ocean Science for Sustainable Development](https://urldefense.com/v3/__https://ioc.unesco.org/news/ocean-decade-launches-new-call-decade-actions-no-032022__;!!Mih3wA!HnBG9gzE_VQVs-UhXz9iJY5GbokqMglHMsoQCIypEGcinOWl395jSpAXGU4F1Y0FB0FvrPefU6QC6vtm_0j0-CkaAL4m$). We will work toward method harmonization and data integration of 'Omics ocean observing platforms on the North American West Coast in support of sustainable marine management.
+The [West Coast OBON](https://oceandecade.org/actions/southern-california-ocean-biomolecular-observing-network/) is a project within the [OBON Program](https://oceandecade.org/actions/ocean-biomolecular-observing-network-obon/) within the UN Decade of Ocean Science for Sustainable Development. We will work toward method harmonization and data integration of 'Omics ocean observing platforms on the North American West Coast in support of sustainable marine management.
 
 # Goal
 
