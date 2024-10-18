@@ -1,0 +1,9 @@
+---
+title: "Opportunities"
+author: "Nastassia Patin"
+editor: visual
+---
+
+<span style="color: white;"># CalCOFI is looking for a postdoc interested in using marine mammal eDNA to help us better understand cetacean ecology! Please see the job posting below.</span>
+
+[CalCOFI marine mammal postdoc](https://semmenslab.org/index.php/opportunities/)
