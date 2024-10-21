@@ -5,4 +5,4 @@ editor: visual
 
 ### [CalCOFI is looking for a postdoc interested in using marine mammal eDNA to help us better understand cetacean ecology! Please see the job posting below.]{style="color: white;"}
 
-[CalCOFI marine mammal postdoc](https://semmenslab.org/index.php/opportunities/)
+[CalCOFI marine mammal postdoc](https://semmenslab.org/wp-content/uploads/2024/10/Postdoc_position_announcement_eDNA_MURI.docx.pdf)
