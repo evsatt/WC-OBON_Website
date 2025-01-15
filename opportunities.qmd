@@ -3,4 +3,4 @@ title: "Opportunities"
 editor: visual
 ---
 
-### [CalC]{style="color: white;"}[OFI is looking for a laboratory technician to help generate a 25-year time series of zooplankton co]{style="color: white;"}[mmunity composition in the Southern California Bight using archived biorepositories. Please check back soon for more information or contact Nastassia at nvpatin\@ucsd.edu for immediate questions!]{style="color: white;"} {style="color: white;"}
+### [CalCOFI is looking for a laboratory technician to help generate a 25-year time series of zooplankton community composition in the Southern California Bight using archived biorepositories. Please find for more information about the position [here](CalCOFI eDNA technician job description.pdf)]{style="color: white;"} [or contact Nastassia at nvpatin\@ucsd.edu for immediate questions!]{style="color: white;"} {style="color: white;"}
