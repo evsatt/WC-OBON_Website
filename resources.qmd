@@ -7,7 +7,7 @@ editor: visual
 
 *This how-to guide was developed collaboratively among West Coast OBON members including SIO, NOAA, LA Natural History Museum, and others. It emphasizes the importance of taxonomic expertise, sample preservation and curation, and sequence data quality.*
 
-![](images/WCOBON Reference Barcoding Guide-02.pdf)
+![](images/WCOBON%20Reference%20Barcoding%20Guide-02.pdf)
 
 [**Better Biomolecular Ocean Practices (BeBOP-OBON)**](https://github.com/BeBOP-OBON)
 
