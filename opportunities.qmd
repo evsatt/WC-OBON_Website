@@ -3,4 +3,10 @@ title: "Opportunities"
 editor: visual
 ---
 
+## The California Cooperative Oceanic Fisheries Investigations (CalCOFI) program at Scripps Institution of Oceanography is hiring an eDNA technician! You can find a detailed description of the job [here](CalCOFI%20eDNA%20technician%20job%20description.pdf) here, and the full job posting with application instructions [here](https://employment.ucsd.edu/calcofi-edna-technician-135101/job/29015875). Contact Nastassia at nvpatin\@ucsd.edu with any inquiries. {style="color: white;"}
+
 ### West Coast OBON always welcomes new members or contributors to our growing community of eDNA practitioners! Please contact Nastassia at nvpatin\@ucsd.edu for immediate questions. {style="color: white;"}
+
+
+
+![](images/computer.png)
