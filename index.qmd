@@ -22,27 +22,27 @@ Facilitate the adoption and harmonization of molecular tools by biomonitoring pr
 
 # Objectives
 
-1\) align eDNA methods to improve comparability of ocean observing platforms
+1\) align eDNA methods among ocean observing platforms
 
-2\) develop bioinformatic work flows and metadata standards to facilitate eDNA method adoption
+2\) develop bioinformatic work flows and metadata standards to facilitate eDNA data interoperability
 
 3\) establish best practices for large scale biomolecular monitoring
+
+4\) address key scientific and management questions for the west coast of North America
 
 # Key Priorities
 
 **Short term**
 
--   Complete eDNA sampling methods comparison experiment to identify optimal approaches
+-   Provide training and resources to help partners bring data into alignment with FAIR principles using the framework of the OBON Project 'Make eDNA FAIR'
 
--   Sequence mitogenomes of ecologically important taxa to improve DNA reference libraries
+-   Encourage protocols to be made publicly available in BeBOP (Better Biomolecular Ocean Practices) format
 
--   Disseminate recommended protocols for eDNA work
+-   Identify potential eDNA data sets for meta-analysis 
 
 **Longer term**
 
 -   Assess water quality & ocean acidification/ hypoxia impacts
-
--   Identify and forecast HABs
 
 -   Identify trophic drivers of fish assemblage dynamics
 
@@ -50,7 +50,7 @@ Facilitate the adoption and harmonization of molecular tools by biomonitoring pr
 
 # Partners
 
-Nastassia Patin, CalCOFI & SCCWRP
+Nastassia Patin, CalCOFI & SIO
 
 Erin Satterthwaite, CalCOFI & CA Sea Grant, SIO, UCSD
 
