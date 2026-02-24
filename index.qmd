@@ -82,12 +82,18 @@ Moira Decima, CCE-LTER, SIO, UCSD
 
 Jeff Bowman, SIO, UCSD
 
-Bob Miller, SBC-MBON, UCSB
-
-Andrew Allen, CalCOFI, SIO, UCSD & JCVI
+Gregory Rouse, SIO, UCSD
 
 Kelly Goodwin, NOAA AOML
 
-Gabrielle Canonico, NOAA IOOS
+Colleen Kellogg, Hakai Institute
+
+Matthew Lemay, Hakai Institute
+
+Jennifer Sunday, McGill University
+
+Collin Closek, Stanford University
+
+Adam Martiny, UC Irvine
 
 # 
